@@ -1,4 +1,3 @@
-import json
 from flask import Flask, jsonify, request
 from imc_calculator import Person, calculate
 
